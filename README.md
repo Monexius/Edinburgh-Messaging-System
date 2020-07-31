@@ -1,6 +1,5 @@
 # Edinburgh-Messaging-System
 This is a .NET application built to manipulate string data together with json files.
 
-<img src="Preview.png" width="100">
+<img src="Preview.png" width="500">
 
-![](Preview.png)
